@@ -1,0 +1,19 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "no-console": {
+            "severity": "warning",
+            "options": ["debug", "info", "log", "time", "timeEnd", "trace"]
+        },
+        "no-unused-expression": false,
+        "only-arrow-functions": false,
+        "object-literal-sort-keys": false,
+        "interface-name": false,
+        "variable-name": false
+    },
+    "rulesDirectory": []
+}
