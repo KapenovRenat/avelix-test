@@ -1,5 +1,5 @@
 # avelix-test <a href="https://avelix-test-kapenov-renat.herokuapp.com/">site link</a>
-Тестовое задание для avelix
+Тестовое задание 
 
 <h2>Step 1: start server</h2>
     <p>a. cd Server</p> <br/>
